@@ -19,4 +19,4 @@ spring:
       ddl-auto: update
     show-sql: true
 env:
-  profile: pyydev
+  profile: pyydev1
